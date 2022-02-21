@@ -1,1 +1,3 @@
-soy ana rangel y en estos momentos estoy practicando commit
+# Soy ana rangel
+# En estos momentos estoy practicando commit
+## En GitHub
